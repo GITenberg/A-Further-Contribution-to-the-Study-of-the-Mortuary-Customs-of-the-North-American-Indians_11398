@@ -1,0 +1,30 @@
+_repo: A-Further-Contribution-to-the-Study-of-the-Mortuary-Customs-of-the-North-American-Indians_11398
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yarrow, H. C. (Harry Crécy)
+    aliases:
+    - Yarrow, H. C. (Harry Crecy)
+    - Yarrow, Harry Crécy
+    - Yarrow, Harry Creecy
+    birthdate: 1840
+    deathdate: 1929
+    gutenberg_agent_id: '3964'
+    url: http://www.gutenberg.org/2009/agents/3964
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Funeral customs and rites'
+- !lcc 'E011'
+- GITenberg
+title: A Further Contribution to the Study of the Mortuary Customs of the North American
+  Indians
+url: http://www.gutenberg.org/ebooks/11398
