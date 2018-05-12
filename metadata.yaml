@@ -1,5 +1,8 @@
 _repo: A-Further-Contribution-to-the-Study-of-the-Mortuary-Customs-of-the-North-American-Indians_11398
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yarrow, H. C. (Harry Crécy)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '3964'
     url: http://www.gutenberg.org/2009/agents/3964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11398#A-Further-Contribution-to-the-Study-of-the-Mortuary-Customs-of-the-North-American-Indians
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
